@@ -1,4 +1,4 @@
-# Melon Contest Blueprint
+# Melon Contest Blueprint version 2!!
 
 ## How to run?
 
